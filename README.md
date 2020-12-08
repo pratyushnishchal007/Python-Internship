@@ -1,2 +1,2 @@
 # BestEnlist
-# A repository to store daily tasks given by BestEnlist
+A repository to store daily tasks given by BestEnlist
